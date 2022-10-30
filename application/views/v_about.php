@@ -2,13 +2,13 @@
      <h1><?php echo $judul ?></h1>
      <h4>Nama</h4>
      <ul type="disc">
-          <li>Nama Depan : fina</li>
-          <li>Nama Belakang : Fadhlan Santoso</li>
+          <li>Nama Depan : Fina</li>
+          <li>Nama Belakang : Aulan Ni'mah</li>
      </ul>
      <br>
      <h4>Alamat</h4>
      <ul type="none">
-          <li> Jalan Arjuna Gg. 14A No. 26 Slerok Tegal</li>
+          <li> Desa Pekauman Kulon rt.03 rw.2</li>
      </ul>
 
      <h4>Tempat Lahir</h4>
